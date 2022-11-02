@@ -1,0 +1,28 @@
+#d1{
+    background-color:pink;
+    height:85%;
+
+}
+.header_div{
+    font-family: 'Fasthand', cursive;
+    font-size: large;
+    letter-spacing:2px;
+    color: blue;
+    font-weight: bolder;
+}
+.header_div p{
+    font-size:15px;
+    color: grey;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif
+}
+.footer_name{
+    text-align: center;
+    position: fixed;
+    font-size: 25px;
+    color:grey;
+    bottom:0;
+    width: 100%;
+    line-height:3;
+
+}
